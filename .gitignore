@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Openiddict.CodeFlow.Template/bin/Debug/net7.0
+/src/Openiddict.CodeFlow.Template/obj
+/src/Openiddict.CodeFlow.Template/Openiddict.CodeFlow.Template.csproj.user
